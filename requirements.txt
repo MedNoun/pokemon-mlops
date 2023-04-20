@@ -1,0 +1,8 @@
+numpy
+pandas
+mlflow
+pillow
+kaggle
+tensorflow
+argparse
+dvc
